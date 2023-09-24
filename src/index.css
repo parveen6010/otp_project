@@ -1,13 +1,76 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-emerald-500 {
+ 
+  background-color: pink;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.react-tel-input .form-control {
+  @apply !w-full py-6 !text-base;
+}
+
+.opt-container {
+  @apply flex justify-between gap-2;
+}
+.opt-container input {
+  @apply !mr-0 flex-1 py-5 outline-none;
+}
+
+.admincardIconstyle{
+  width: 100%;
+}
+
+.loginpic{
+  width: 305px;
+  height: 250px;
+  top: 95px;
+  left: 29px;
+  
+}
+.verfiypic{
+  width: 131.52px;
+  height: 138.01px;
+  margin-left: 75px;
+}
+
+.logingetstart{
+  width: Hug (141px);
+height: Fixed (36px);
+top: 658px;
+left: 115px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+border-radius: 50px;
+margin-top: 20px;
+color: white;
+gap: 10px;
+background: #F7B348;
+}
+
+.loginget{
+  width: Hug (141px);
+  height: Fixed (36px);
+  top: 658px;
+  left: 115px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 50px;
+  margin-left: 70px;
+  color: white;
+  gap: 10px;
+  background: #F7B348; 
+}
+
+.charge{
+width: 280px;
+height: 28px;
+left: 16px;
+font-size: 12px;
 }
