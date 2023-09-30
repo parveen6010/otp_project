@@ -73,7 +73,7 @@ ScreenShot of App
 
 ![WhatsApp Image 2023-09-24 at 9 30 37 AM (1)](https://github.com/parveen6010/otp_project/assets/77872164/c0c67583-cfb2-4924-a37c-90d1a5e0be42)
 
-![Screenshot (31)](https://github.com/parveen6010/otp_project/assets/77872164/2caf030a-6dae-450c-a070-9f869c5582e4)
+![WhatsApp Image 2023-09-30 at 8 13 25 PM](https://github.com/parveen6010/otp_project/assets/77872164/0cd0d234-a815-4246-a9d9-708d4d376aac)
 
 ![WhatsApp Image 2023-09-24 at 9 30 37 AM](https://github.com/parveen6010/otp_project/assets/77872164/bfda5a98-16f5-4543-80d7-b16471cbf707)
 
