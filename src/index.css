@@ -3,9 +3,11 @@
 @tailwind utilities;
 
 
+
 .bg-emerald-500 {
  
   background-color: pink;
+  
 }
 
 .react-tel-input .form-control {
@@ -22,6 +24,7 @@
 .admincardIconstyle{
   width: 100%;
 }
+
 
 .loginpic{
   width: 305px;
